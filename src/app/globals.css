@@ -17,11 +17,14 @@
 }
 
 body {
-
+background-color: #F3F4F6;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+.link{
+  color: rgb(255, 0, 0);
 }
