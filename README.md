@@ -1,7 +1,6 @@
 # Hi, I'm Zohaib Arshad 👋
 
 ### AI SaaS Developer | Full Stack Developer
-
 I build modern web applications, AI powered SaaS products, AI Agents, and business automation solutions.
 
 ### 💻 Tech Stack
