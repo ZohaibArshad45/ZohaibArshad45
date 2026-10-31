@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @ZohaibArshad45
-- 👀 I’m interested in Web Developing, App Developing, Ai chatbot, Automation N8N , ...!
-- 🌱 I’m currently learning Nextjs & React Native...
-- 💞️ I’m looking to collaborate on Web Developing...
-- 📫 How to reach me..? 01011001 01101111 01110101 00100000 01110111 01101001 01101100 01101100 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101101 01100101 
+# Hi, I'm Zohaib Arshad 👋
+
+### AI SaaS Developer | Full Stack Developer
+
+I build modern web applications, AI powered SaaS products, AI Agents, and business automation solutions.
+
+### 💻 Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL, Prisma, Supabase
+- **AI:** OpenAI, LangChain, RAG, AI Agents
+- **Automation:** n8n, APIs, Webhooks
+
+### 🚀 What I'm Building
+- AI SaaS Applications
+- AI Agents & Chatbots
+- RAG Applications
+- Business Automation
+
+### 🌱 Currently Learning
+Advanced AI Agents, MCP, Voice AI, and Agentic Workflows.
+
+### 🤝 Let's Connect
+Always open to learning, sharing ideas, and collaborating on interesting projects.
+
+**Build. Automate. Innovate. 🚀**
